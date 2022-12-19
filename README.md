@@ -7,7 +7,7 @@ The following sites are where I researched the information used in the developme
 
 
 # Usage
-clone the repo and cd into the directory such that you are on learnable-opp-solutions-sample
+clone the repo and cd into the directory such that you are on oop-animal-kingdom-model
 To run the solution, make sure you have [nodejs](https://nodejs.org/en/) installed
 use the following command terminal
 ```
